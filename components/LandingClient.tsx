@@ -209,7 +209,7 @@ export default function LandingClient() {
               icon={<Briefcase className="w-8 h-8 text-[#0038FF]" />} 
               title={d.quickActions.portfolio}
               desc="Bizning ishlarimiz"
-              onClick={() => window.open('https://t.me/Sferamoonsmm', '_blank')}
+              onClick={() => window.open('https://t.me/unique_agancy', '_blank')}
               highlight
             />
           </section>
